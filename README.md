@@ -118,3 +118,8 @@ Close the unencrypted mapping with:
 ```
 sudo cryptsetup luksClose encrypted_usb
 ```
+
+## Installing Kali with encrypted persistence
+
+TODO:
+https://www.geeksforgeeks.org/creating-an-encrypted-persistent-live-kali-usb/
